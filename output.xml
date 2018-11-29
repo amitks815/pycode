@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.6.4 on win32)" generated="20180915 00:00:48.858">
+<suite id="s1" name="Test" source="C:\Users\kumaami3\PycharmProjects\pycode\test.robot">
+<test id="s1-t1" name="Test title">
+<status status="FAIL" starttime="20180915 00:00:48.919" endtime="20180915 00:00:48.919" critical="yes">Test case contains no keywords.</status>
+</test>
+<doc>Suite description</doc>
+<status status="FAIL" starttime="20180915 00:00:48.870" endtime="20180915 00:00:48.922"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Test">Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
